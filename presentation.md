@@ -2,7 +2,7 @@
 
 > L'avenir appartient à ceux qui se lèvent tôt"
 
-![lever de soleil](/assets/sunshine.gif)
+![lever de soleil](assets/sunshine.gif)
 
 ---
 
@@ -22,7 +22,7 @@ Développeur frontend [@Alltech](https://www.alltechconsulting.fr)
 
 ## Ça vous arrive d'être comme ça au réveil ?
 
-![Fatigue extrême](/assets/wake-up.gif) <!-- .element: height="300" -->
+![Fatigue extrême](assets/wake-up.gif) <!-- .element: height="300" -->
 
 --
 
@@ -41,7 +41,7 @@ Meh.
 
 ## Le livre qui peut vous sauver
 
-![Couverture du livre Miracle Morning](/assets/miracle-morning.jpg) <!-- .element: height="400" -->
+![Couverture du livre Miracle Morning](assets/miracle-morning.jpg) <!-- .element: height="400" -->
 
 --
 
@@ -76,7 +76,7 @@ Meh.
 
 ## 1. Méditation 🧘
 
-![méditation](/assets/meditation.gif)
+![méditation](assets/meditation.gif)
 
 --
 
@@ -101,7 +101,7 @@ Note: Il existe des applications pour vous aider à méditer comme Insight Timer
 
 ## 2. Lecture 📖
 
-![Lecture](/assets/reading.gif)
+![Lecture](assets/reading.gif)
 
 --
 
@@ -114,7 +114,7 @@ Note: Il existe des applications pour vous aider à méditer comme Insight Timer
 
 ## 3. Affirmations / objectifs 🗣️
 
-![Motivation](/assets/do-it.gif)
+![Motivation](assets/do-it.gif)
 
 --
 
@@ -142,7 +142,7 @@ La loi d'attraction c’est la capacité à attirer dans nos vies ce sur quoi no
 
 ## 4. Écriture 📝
 
-![Écriture](/assets/writing.gif)
+![Écriture](assets/writing.gif)
 
 --
 
@@ -166,7 +166,7 @@ Note: Il peut s'agir d'un journal intime, d'un journal de gratitude, d'un journa
 
 ## 5. Exercice physique 🏃
 
-![Exercice physique](/assets/gym.gif) <!-- .element: height="300" -->
+![Exercice physique](assets/gym.gif) <!-- .element: height="300" -->
 
 --
 
@@ -203,7 +203,7 @@ Note: Il peut s'agir d'une activité physique intense ou non. Il peut s'agir d'u
 
 ### Pourquoi j'ai arrêté :
 
-![Bébé qui se réveille](/assets/wake-up-sleepy.gif) <!-- .element: height="300" class="fragment" -->
+![Bébé qui se réveille](assets/wake-up-sleepy.gif) <!-- .element: height="300" class="fragment" -->
 
 -- 
 
@@ -241,7 +241,7 @@ Note: Au réveil le corps produit du cortisol, l'hormone du stress. Le café aug
 
 <div class="r-side-by-side">
   <div>
-    <img src="/assets/wojak-tired.png" alt="Fatigue extrême" height="200">
+    <img src="assets/wojak-tired.png" alt="Fatigue extrême" height="200">
     <ul>
       <li>Se reveille à 8h59 pour embaucher à 9h</li>
       <li>Appuie 10x sur snooze</li>
@@ -249,7 +249,7 @@ Note: Au réveil le corps produit du cortisol, l'hormone du stress. Le café aug
     </ul>
   </div>
   <div>
-    <img src="/assets/gigachad.webp" alt="En forme" height="200">
+    <img src="assets/gigachad.webp" alt="En forme" height="200">
     <ul>
       <li>Profite du calme du matin</li>
       <li>Développe des habitudes vertueuses</li>
@@ -273,7 +273,7 @@ Note: Au réveil le corps produit du cortisol, l'hormone du stress. Le café aug
 
 > Je suis pas du matin
 
-![Chronotypes](/assets/chronotypes.jpg) <!-- .element: height="400" -->
+![Chronotypes](assets/chronotypes.jpg) <!-- .element: height="400" -->
 
 Chronotypes
 
